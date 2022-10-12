@@ -9,13 +9,66 @@
 
 Projeto desenvolvido no NLW Ignite de 2022. 
 
-[Acesse aqui](https://ldragk.github.io/NLW-Ignite-2022/)
+<br><br>
+
+<h1>Tecnologias</h1><br>
+
+<h2>Global</h2><br>
+
+* <p>JavaScript</p>
+* <p>Typescript</p>
 
 <br>
 
+<h2>Front-End WEB</h2> <br>
+
+* <p>ViteJS</p>
+* <p>Reactjs</p>
+* <p>Tailwind</p>
+
+<br>
+
+<h2>Back-End</h2><br>
+
+* <p>NodeJS</p>
+* <p>Prisma</p>
+
+<br><br>
+
+
+<h1>Instalação</h1><br>
+
+<h2>Criar um arquivo .env na pasta do servidor</h2><br>
+
+<p>$ cd server</p>
+<p>$ type nul > .env</p>
+
+
+<br>
+
+<h3>Dentro do arquivo .env</h3><br>
+
+DATABASE_URL="file:../src/database/db.sqlite"<br><br><br>
+
+<h2>Servidor</h2><br>
+
+<p>$ cd server</p> 
+<p>$ npm install</p>
+<p>$ npx prisma generate</p>
+<p>$ npm run dev</p>
+<br>
+
+<h2>Web</h2><br>
+
+<p>$ cd web</p>
+<p>$ npm install</p>
+<p>$ npm run dev</p>
+
+
+
+
+
 <h1 align="center">Contato</h1>
-
-
 
 <div align="center">  
     <a href = "mailto:lucasvm.ti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    
