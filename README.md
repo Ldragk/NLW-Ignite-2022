@@ -11,7 +11,14 @@ Projeto desenvolvido no NLW Ignite de 2022.
 
 <br><br>
 
+<div>
+<div align="center">
+
+<img width="140" src="https://github.com/Ldragk/.github/blob/main/3f14716d949ad3a04faab591350373fb-removebg-preview.png?raw=true">
+
 <h1>Tecnologias</h1><br>
+
+</div>
 
 <h2>Global</h2><br>
 
@@ -36,7 +43,13 @@ Projeto desenvolvido no NLW Ignite de 2022.
 <br><br>
 
 
-<h1>Instalação</h1><br>
+<div align="center">
+
+<img width="140" src="https://github.com/Ldragk/.github/blob/main/e35593d5c5dafd8ffe96682915c967a5-removebg-preview.png?raw=true">
+
+<h1>Instalação</h1><br><br>
+
+</div>
 
 <h2>Criar um arquivo .env na pasta do servidor</h2><br>
 
@@ -66,7 +79,7 @@ DATABASE_URL="file:../src/database/db.sqlite"<br><br><br>
 
 
 
-
+<br><br>
 
 <h1 align="center">Contato</h1>
 
