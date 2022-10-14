@@ -58,7 +58,7 @@ Projeto desenvolvido no NLW Ignite de 2022.
 
 <br>
 
-<h3>Dentro do arquivo .env</h3><br>
+<p>Dentro do arquivo .env</p><br>
 
 DATABASE_URL="file:../src/database/db.sqlite"<br><br><br>
 
