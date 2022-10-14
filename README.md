@@ -47,11 +47,10 @@ Projeto desenvolvido no NLW Ignite de 2022.
  <!-- 
 <img width="140" src="https://github.com/Ldragk/.github/blob/main/e35593d5c5dafd8ffe96682915c967a5-removebg-preview.png?raw=true">
 -->
+ 
 <h1>Instalação</h1><br><br>
 
 </div>
-
-<h2>Criar um arquivo .env na pasta do servidor</h2><br>
 
 <p>$ cd server</p>
 <p>$ type nul > .env</p>
