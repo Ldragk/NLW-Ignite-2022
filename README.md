@@ -23,7 +23,7 @@ Projeto desenvolvido no NLW Ignite de 2022.
 <h2>Global</h2><br>
 
 * <p>JavaScript</p>
-* <p>Typescript</p>
+* <p>TypeScript</p>
 
 <br>
 
