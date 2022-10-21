@@ -39,7 +39,7 @@ Projeto desenvolvido no NLW Ignite de 2022.
 
 * <p>NodeJS</p>
 * <p>Prisma</p>
-
+* <p>SQLite</p>
 <br><br>
 
 
