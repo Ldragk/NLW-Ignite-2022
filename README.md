@@ -7,11 +7,18 @@
 ![preview](./.github/Menu.jpg)
 
 
+<div align="center">
+<img width="800px" title="Clique para abrir" width="100px" src="./.github/gif.gif"></a>
+<br>
 Projeto desenvolvido no NLW Ignite de 2022. 
+</div>
+
+
+
 
 <br><br>
 
-<div>
+
 <div align="center">
  
 
