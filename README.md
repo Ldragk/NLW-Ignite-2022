@@ -68,6 +68,8 @@ DATABASE_URL="file:../src/database/db.sqlite"<br><br><br>
 <p>$ npm install</p>
 <p>$ npx prisma generate</p>
 <p>$ npm run dev</p>
+<p>$ npx prisma studio</p>
+
 <br>
 
 <h2>Web</h2><br>
