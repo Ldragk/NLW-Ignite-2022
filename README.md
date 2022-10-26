@@ -55,13 +55,8 @@ Projeto desenvolvido no NLW Ignite eSports 2022.
 <br><br>
 
 
-<div align="center">
-
-
 
 ## 💻 Instalação
-
-</div>
 
 <p>$ cd server</p>
 <p>$ type nul > .env</p>
@@ -69,7 +64,7 @@ Projeto desenvolvido no NLW Ignite eSports 2022.
 
 <br>
 
-<p>Dentro do arquivo .env:</p>
+<h4>Dentro do arquivo .env:</h4>
 
 DATABASE_URL="file:../src/database/db.sqlite"<br><br><br>
 
@@ -88,6 +83,8 @@ DATABASE_URL="file:../src/database/db.sqlite"<br><br><br>
 <p>$ cd web</p>
 <p>$ npm install</p>
 <p>$ npm run dev</p>
+
+<br><br>
 
 
 ## 🔖 Projeto
