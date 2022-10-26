@@ -89,7 +89,7 @@ DATABASE_URL="file:../src/database/db.sqlite"<br><br><br>
 
 ## 🔖 Projeto
 
-<p> O projeto tem a finalidade de ajudar jogadores de jogos online a encontrarem uma equipe para jogar, assim possibilita que criem anúncios para que outros jogadores possam ver e escolher jogar junto. Nos anúncios é possível informar várias informações sobre o jogador e suas preferências de jogabilidade.
+<p> O projeto tem a finalidade de ajudar jogadores de jogos online a encontrarem uma equipe para jogar, assim possibilita que criem anúncios para que outros jogadores possam ver e escolher jogar junto. Nos anúncios é possível informar várias características sobre o jogador e suas preferências de jogabilidade.
 
 <br><br>
 
