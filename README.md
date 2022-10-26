@@ -69,7 +69,7 @@ Projeto desenvolvido no NLW Ignite eSports 2022.
 
 <br>
 
-<p>Dentro do arquivo .env</p><br>
+<p>Dentro do arquivo .env:</p>
 
 DATABASE_URL="file:../src/database/db.sqlite"<br><br><br>
 
