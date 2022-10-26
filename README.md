@@ -11,7 +11,7 @@
 
 
 <div align="center">
-<img width="100%" title="Clique para abrir" width="100px" src="./.github/gif.gif"></a>
+<img width="100%" title="" width="100px" src="./.github/gif.gif"></a>
 <br><br>
 
 <img width="100%" title="Clique para abrir" width="100px" src="./.github/Home.jpg"></a>
