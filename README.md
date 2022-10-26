@@ -4,9 +4,9 @@
 
 
 <p align="center">
-  <a href="#-tcnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#memo-licença">Licença</a>
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+   <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;    
 </p>
 
 
@@ -35,23 +35,23 @@ Projeto desenvolvido no NLW Ignite eSports 2022.
 <h2>Global</h2><br>
 
 * <p>JavaScript</p>
-* <p>TypeScript</p>
+* [TypeScript](https://www.typescriptlang.org/)
 
 <br>
 
 <h2>Front-End WEB</h2> <br>
 
-* <p>ViteJS</p>
-* <p>Reactjs</p>
-* <p>Tailwind</p>
+* [Vite](https://vitejs.dev/)
+* [React](https://pt-br.reactjs.org/)
+* [TailWind](https://tailwindcss.com/)
 
 <br>
 
 <h2>Back-End</h2><br>
 
-* <p>NodeJS</p>
-* <p>Prisma</p>
-* <p>SQLite</p>
+* [Node e NPM](https://nodejs.org/)
+* [Prisma](https://www.prisma.io/)
+* [SQLite](https://www.sqlite.org/index.html)
 <br><br>
 
 
