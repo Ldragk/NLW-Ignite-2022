@@ -1,17 +1,24 @@
 
-# NLW eSports 2022
 
-> Trilha Ignite
+<h1 align="center">NLW Ignite eSports 2022</h1>
+
+
+<p align="center">
+  <a href="#-tcnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#memo-licença">Licença</a>
+</p>
 
 
 <div align="center">
-<img width="80%" title="Clique para abrir" width="100px" src="./.github/gif.gif"></a>
-<br>
-Projeto desenvolvido no NLW Ignite de 2022. 
+<img width="100%" title="Clique para abrir" width="100px" src="./.github/gif.gif"></a>
+<br><br>
+
+<img width="100%" title="Clique para abrir" width="100px" src="./.github/Home.jpg"></a>
+<img width="100%" title="Clique para abrir" width="100px" src="./.github/Menu.jpg"></a>
+Projeto desenvolvido no NLW Ignite eSports 2022. 
 </div>
 
-![preview](./.github/Home.jpg)
-![preview](./.github/Menu.jpg)
 
 
 
@@ -21,13 +28,9 @@ Projeto desenvolvido no NLW Ignite de 2022.
 <br><br>
 
 
-<div align="center">
- 
 
 
-<h1>Tecnologias</h1><br>
-
-</div>
+## 🚀 Tecnologias
 
 <h2>Global</h2><br>
 
@@ -88,6 +91,9 @@ DATABASE_URL="file:../src/database/db.sqlite"<br><br><br>
 <p>$ npm run dev</p>
 
 
+## Projeto
+
+<p> O projeto tem a finalidade de ajudar jogadores de jogos online a encontrarem uma equipe para jogar, assim possibilita que criem anúncios para que outros jogadores possam ver e escolher jogar junto. Nos anúncios é possível informar várias informações sobre o jogador e suas preferências de jogabilidade.
 
 <br><br>
 
