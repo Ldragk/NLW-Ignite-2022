@@ -59,8 +59,7 @@ Projeto desenvolvido no NLW Ignite eSports 2022.
 
 
 
- 
-<h1>Instalação</h1><br><br>
+## 💻 Instalação
 
 </div>
 
@@ -91,7 +90,7 @@ DATABASE_URL="file:../src/database/db.sqlite"<br><br><br>
 <p>$ npm run dev</p>
 
 
-## Projeto
+## 🔖 Projeto
 
 <p> O projeto tem a finalidade de ajudar jogadores de jogos online a encontrarem uma equipe para jogar, assim possibilita que criem anúncios para que outros jogadores possam ver e escolher jogar junto. Nos anúncios é possível informar várias informações sobre o jogador e suas preferências de jogabilidade.
 
